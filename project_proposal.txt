@@ -1,0 +1,16 @@
+Project Proposal 
+
+How did COVID-19 affect the housing market across Texas?
+Did COVID lead to a housing market boom?   How did house sales change from 2018-2019 to 2020-2021?
+How did interest rates change pre-covid and post-covid?
+How was house price affected by Covid?  What is the change in square foot price in real estate?
+How did job opportunities change pre and post Covid?  Were more remote work job opportunities available? 
+Was housing price affected by supply materials and shipping?  How did supply materials and shipping prices change, pre and post Covid?
+
+
+Potential Data Sources
+Zillow - http://www.zillow.com/research/data
+Yahoo Finance - https://finance.yahoo.com/quote/Z/history?p=Z
+Travis County Office - https://www.traviscountytx.gov/open-data-portal
+Bureau of Labor Statistics - https://www.bls.gov/data/ 
+
