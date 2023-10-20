@@ -1,13 +1,10 @@
-﻿table with row headers in column B and column headers in rows 3 through 4 (leading dots indicate sub-parts),,,,,
-"Cumulative Estimates of Resident Population Change for Incorporated Places of 50,000 or More in 2020, Ranked by Percent Change: April 1, 2020 to July 1, 2022",,,,,
-Rank,Geographic Area,Population Estimate,,"Change, 2020 to 2022",
-,,"April 1, 2020","July 1, 2022",Number,Percent
+﻿Rank,Geographic Area,1-Apr-20,1-Jul-22,Number,Percent
 1,"Georgetown city, Texas","67,012","86,507","19,495",29.1
 2,"Leander city, Texas","59,217","74,375","15,158",25.6
 3,"Queen Creek town, Arizona","59,516","70,734","11,218",18.8
 4,"New Braunfels city, Texas","90,391","104,707","14,316",15.8
 5,"Buckeye city, Arizona","91,535","105,567","14,032",15.3
-6,"Maricopa city, Arizona","58,143","66,290","8,147",14.0
+6,"Maricopa city, Arizona","58,143","66,290","8,147",14
 7,"North Port city, Florida","74,798","85,099","10,301",13.8
 8,"Port St. Lucie city, Florida","204,856","231,790","26,934",13.1
 9,"Conroe city, Texas","89,990","101,405","11,415",12.7
@@ -15,7 +12,7 @@ Rank,Geographic Area,Population Estimate,,"Change, 2020 to 2022",
 11,"Cape Coral city, Florida","193,994","216,992","22,998",11.9
 12,"Lehi city, Utah","75,900","84,373","8,473",11.2
 13,"Fort Myers city, Florida","86,401","95,949","9,548",11.1
-14,"Tuscaloosa city, Alabama","99,627","110,602","10,975",11.0
+14,"Tuscaloosa city, Alabama","99,627","110,602","10,975",11
 15,"Apex town, North Carolina","64,180","71,065","6,885",10.7
 16,"Goodyear city, Arizona","95,288","105,406","10,118",10.6
 17,"Nampa city, Idaho","100,310","110,951","10,641",10.6
@@ -28,7 +25,7 @@ Rank,Geographic Area,Population Estimate,,"Change, 2020 to 2022",
 24,"Winter Haven city, Florida","50,203","55,024","4,821",9.6
 25,"Frisco city, Texas","200,536","219,587","19,051",9.5
 26,"St. Cloud city, Florida","58,950","64,489","5,539",9.4
-27,"Temple city, Texas","82,072","89,458","7,386",9.0
+27,"Temple city, Texas","82,072","89,458","7,386",9
 28,"Daytona Beach city, Florida","71,587","77,958","6,371",8.9
 29,"North Las Vegas city, Nevada","259,520","280,543","21,023",8.1
 30,"Palm Bay city, Florida","119,752","129,234","9,482",7.9
@@ -50,8 +47,8 @@ Rank,Geographic Area,Population Estimate,,"Change, 2020 to 2022",
 46,"McKinney city, Texas","195,326","207,507","12,181",6.2
 47,"Beaumont city, California","53,045","56,349","3,304",6.2
 48,"Clarksville city, Tennessee","166,739","176,974","10,235",6.1
-49,"Round Rock city, Texas","119,501","126,697","7,196",6.0
-50,"Merced city, California","86,370","91,563","5,193",6.0
+49,"Round Rock city, Texas","119,501","126,697","7,196",6
+50,"Merced city, California","86,370","91,563","5,193",6
 51,"Wylie city, Texas","57,530","60,943","3,413",5.9
 52,"Commerce City city, Colorado","62,425","66,115","3,690",5.9
 53,"Mansfield city, Texas","72,596","76,724","4,128",5.7
@@ -62,7 +59,7 @@ Rank,Geographic Area,Population Estimate,,"Change, 2020 to 2022",
 58,"Frederick city, Maryland","78,188","82,175","3,987",5.1
 59,"Bonita Springs city, Florida","53,638","56,370","2,732",5.1
 60,"Auburn city, Alabama","76,143","80,006","3,863",5.1
-61,"Madison city, Alabama","56,965","59,785","2,820",5.0
+61,"Madison city, Alabama","56,965","59,785","2,820",5
 62,"Sioux Falls city, South Dakota","192,700","202,078","9,378",4.9
 63,"Mooresville town, North Carolina","50,240","52,656","2,416",4.8
 64,"Twin Falls city, Idaho","51,811","54,300","2,489",4.8
@@ -90,8 +87,8 @@ Rank,Geographic Area,Population Estimate,,"Change, 2020 to 2022",
 86,"Rowlett city, Texas","62,551","65,113","2,562",4.1
 87,"Mount Pleasant town, South Carolina","90,838","94,545","3,707",4.1
 88,"Bend city, Oregon","99,213","103,254","4,041",4.1
-89,"Edinburg city, Texas","100,269","104,294","4,025",4.0
-90,"Franklin city, Tennessee","83,547","86,895","3,348",4.0
+89,"Edinburg city, Texas","100,269","104,294","4,025",4
+90,"Franklin city, Tennessee","83,547","86,895","3,348",4
 91,"Killeen city, Texas","153,143","159,172","6,029",3.9
 92,"Rio Rancho city, New Mexico","104,039","108,082","4,043",3.9
 93,"Apopka city, Florida","54,889","57,017","2,128",3.9
@@ -128,10 +125,10 @@ Rank,Geographic Area,Population Estimate,,"Change, 2020 to 2022",
 124,"Tyler city, Texas","105,984","109,286","3,302",3.1
 125,"West Palm Beach city, Florida","117,315","120,932","3,617",3.1
 126,"Olathe city, Kansas","141,283","145,616","4,333",3.1
-127,"Missouri City city, Texas","74,248","76,500","2,252",3.0
-128,"Tempe city, Arizona","180,576","185,950","5,374",3.0
-129,"Ocala city, Florida","63,587","65,478","1,891",3.0
-130,"Fishers city, Indiana","99,027","101,966","2,939",3.0
+127,"Missouri City city, Texas","74,248","76,500","2,252",3
+128,"Tempe city, Arizona","180,576","185,950","5,374",3
+129,"Ocala city, Florida","63,587","65,478","1,891",3
+130,"Fishers city, Indiana","99,027","101,966","2,939",3
 131,"Durham city, North Carolina","283,588","291,928","8,340",2.9
 132,"West Des Moines city, Iowa","68,726","70,741","2,015",2.9
 133,"Gainesville city, Florida","141,079","145,214","4,135",2.9
@@ -185,14 +182,14 @@ Rank,Geographic Area,Population Estimate,,"Change, 2020 to 2022",
 181,"Columbia city, South Carolina","136,803","139,698","2,895",2.1
 182,"Lenexa city, Kansas","57,417","58,617","1,200",2.1
 183,"Melbourne city, Florida","84,703","86,441","1,738",2.1
-184,"Johnson City city, Tennessee","71,063","72,514","1,451",2.0
-185,"Oklahoma City city, Oklahoma","681,084","694,800","13,716",2.0
-186,"Brookhaven city, Georgia","56,795","57,934","1,139",2.0
-187,"Loveland city, Colorado","76,365","77,884","1,519",2.0
-188,"Perris city, California","78,705","80,263","1,558",2.0
-189,"Fontana city, California","208,387","212,475","4,088",2.0
-190,"Edmond city, Oklahoma","94,436","96,286","1,850",2.0
-191,"Irvine city, California","307,665","313,685","6,020",2.0
+184,"Johnson City city, Tennessee","71,063","72,514","1,451",2
+185,"Oklahoma City city, Oklahoma","681,084","694,800","13,716",2
+186,"Brookhaven city, Georgia","56,795","57,934","1,139",2
+187,"Loveland city, Colorado","76,365","77,884","1,519",2
+188,"Perris city, California","78,705","80,263","1,558",2
+189,"Fontana city, California","208,387","212,475","4,088",2
+190,"Edmond city, Oklahoma","94,436","96,286","1,850",2
+191,"Irvine city, California","307,665","313,685","6,020",2
 192,"Cathedral City city, California","51,498","52,494",996,1.9
 193,"Chino city, California","91,387","93,140","1,753",1.9
 194,"Vancouver city, Washington","190,888","194,512","3,624",1.9
@@ -260,18 +257,18 @@ Rank,Geographic Area,Population Estimate,,"Change, 2020 to 2022",
 256,"North Richland Hills city, Texas","69,911","70,663",752,1.1
 257,"Champaign city, Illinois","88,293","89,241",948,1.1
 258,"Pinellas Park city, Florida","53,094","53,653",559,1.1
-259,"Dunwoody city, Georgia","51,667","52,201",534,1.0
-260,"Homestead city, Florida","80,734","81,562",828,1.0
-261,"Layton city, Utah","81,780","82,601",821,1.0
-262,"Thornton city, Colorado","141,862","143,282","1,420",1.0
-263,"St. Cloud city, Minnesota","68,882","69,568",686,1.0
-264,"Mission city, Texas","85,787","86,635",848,1.0
-265,"Kissimmee city, Florida","79,224","80,003",779,1.0
-266,"Rancho Cucamonga city, California","174,624","176,336","1,712",1.0
-267,"Kennewick city, Washington","83,929","84,750",821,1.0
-268,"Hemet city, California","89,818","90,689",871,1.0
-269,"Fort Smith city, Arkansas","89,141","89,992",851,1.0
-270,"Wilmington city, Delaware","70,893","71,569",676,1.0
+259,"Dunwoody city, Georgia","51,667","52,201",534,1
+260,"Homestead city, Florida","80,734","81,562",828,1
+261,"Layton city, Utah","81,780","82,601",821,1
+262,"Thornton city, Colorado","141,862","143,282","1,420",1
+263,"St. Cloud city, Minnesota","68,882","69,568",686,1
+264,"Mission city, Texas","85,787","86,635",848,1
+265,"Kissimmee city, Florida","79,224","80,003",779,1
+266,"Rancho Cucamonga city, California","174,624","176,336","1,712",1
+267,"Kennewick city, Washington","83,929","84,750",821,1
+268,"Hemet city, California","89,818","90,689",871,1
+269,"Fort Smith city, Arkansas","89,141","89,992",851,1
+270,"Wilmington city, Delaware","70,893","71,569",676,1
 271,"Athens-Clarke County unified government (balance), Georgia","127,362","128,561","1,199",0.9
 272,"Redlands city, California","73,170","73,849",679,0.9
 273,"St. Charles city, Missouri","70,539","71,184",645,0.9
@@ -512,20 +509,20 @@ Rank,Geographic Area,Population Estimate,,"Change, 2020 to 2022",
 508,"Laguna Niguel city, California","64,347","63,742",-605,-0.9
 509,"Gulfport city, Mississippi","72,923","72,236",-687,-0.9
 510,"Kalamazoo city, Michigan","73,570","72,873",-697,-0.9
-511,"Meriden city, Connecticut","60,830","60,242",-588,-1.0
-512,"Waukesha city, Wisconsin","71,162","70,454",-708,-1.0
-513,"Springfield city, Illinois","114,414","113,273","-1,141",-1.0
-514,"Grand Rapids city, Michigan","198,893","196,908","-1,985",-1.0
-515,"Akron city, Ohio","190,416","188,509","-1,907",-1.0
-516,"Troy city, New York","51,414","50,895",-519,-1.0
-517,"Gaithersburg city, Maryland","69,656","68,952",-704,-1.0
-518,"Encinitas city, California","62,002","61,369",-633,-1.0
-519,"Miami Gardens city, Florida","111,644","110,497","-1,147",-1.0
-520,"Lancaster city, Pennsylvania","58,051","57,453",-598,-1.0
-521,"Sunrise city, Florida","97,309","96,306","-1,003",-1.0
-522,"West Haven city, Connecticut","55,581","55,004",-577,-1.0
-523,"Newport News city, Virginia","186,243","184,306","-1,937",-1.0
-524,"Chicopee city, Massachusetts","55,562","54,980",-582,-1.0
+511,"Meriden city, Connecticut","60,830","60,242",-588,-1
+512,"Waukesha city, Wisconsin","71,162","70,454",-708,-1
+513,"Springfield city, Illinois","114,414","113,273","-1,141",-1
+514,"Grand Rapids city, Michigan","198,893","196,908","-1,985",-1
+515,"Akron city, Ohio","190,416","188,509","-1,907",-1
+516,"Troy city, New York","51,414","50,895",-519,-1
+517,"Gaithersburg city, Maryland","69,656","68,952",-704,-1
+518,"Encinitas city, California","62,002","61,369",-633,-1
+519,"Miami Gardens city, Florida","111,644","110,497","-1,147",-1
+520,"Lancaster city, Pennsylvania","58,051","57,453",-598,-1
+521,"Sunrise city, Florida","97,309","96,306","-1,003",-1
+522,"West Haven city, Connecticut","55,581","55,004",-577,-1
+523,"Newport News city, Virginia","186,243","184,306","-1,937",-1
+524,"Chicopee city, Massachusetts","55,562","54,980",-582,-1
 525,"Oceanside city, California","174,048","172,199","-1,849",-1.1
 526,"Camden city, New Jersey","71,777","70,996",-781,-1.1
 527,"San Buenaventura (Ventura) city, California","110,736","109,527","-1,209",-1.1
@@ -640,19 +637,19 @@ Rank,Geographic Area,Population Estimate,,"Change, 2020 to 2022",
 636,"Tustin city, California","79,967","78,418","-1,549",-1.9
 637,"Paterson city, New Jersey","159,759","156,661","-3,098",-1.9
 638,"South Gate city, California","92,727","90,926","-1,801",-1.9
-639,"Florissant city, Missouri","52,532","51,506","-1,026",-2.0
-640,"Framingham city, Massachusetts","72,381","70,963","-1,418",-2.0
-641,"Bowie city, Maryland","58,335","57,192","-1,143",-2.0
-642,"Los Angeles city, California","3,898,767","3,822,238","-76,529",-2.0
-643,"Edina city, Minnesota","53,487","52,437","-1,050",-2.0
-644,"Fountain Valley city, California","57,054","55,930","-1,124",-2.0
-645,"Mission Viejo city, California","93,639","91,776","-1,863",-2.0
-646,"Newark city, New Jersey","311,552","305,344","-6,208",-2.0
-647,"Passaic city, New Jersey","70,534","69,128","-1,406",-2.0
-648,"Vallejo city, California","126,083","123,564","-2,519",-2.0
-649,"Mobile city, Alabama","187,048","183,289","-3,759",-2.0
-650,"Watsonville city, California","52,595","51,525","-1,070",-2.0
-651,"Dearborn city, Michigan","109,961","107,710","-2,251",-2.0
+639,"Florissant city, Missouri","52,532","51,506","-1,026",-2
+640,"Framingham city, Massachusetts","72,381","70,963","-1,418",-2
+641,"Bowie city, Maryland","58,335","57,192","-1,143",-2
+642,"Los Angeles city, California","3,898,767","3,822,238","-76,529",-2
+643,"Edina city, Minnesota","53,487","52,437","-1,050",-2
+644,"Fountain Valley city, California","57,054","55,930","-1,124",-2
+645,"Mission Viejo city, California","93,639","91,776","-1,863",-2
+646,"Newark city, New Jersey","311,552","305,344","-6,208",-2
+647,"Passaic city, New Jersey","70,534","69,128","-1,406",-2
+648,"Vallejo city, California","126,083","123,564","-2,519",-2
+649,"Mobile city, Alabama","187,048","183,289","-3,759",-2
+650,"Watsonville city, California","52,595","51,525","-1,070",-2
+651,"Dearborn city, Michigan","109,961","107,710","-2,251",-2
 652,"Dearborn Heights city, Michigan","63,291","61,980","-1,311",-2.1
 653,"Orland Park village, Illinois","58,730","57,511","-1,219",-2.1
 654,"Jersey City city, New Jersey","292,754","286,670","-6,084",-2.1
@@ -713,10 +710,10 @@ Rank,Geographic Area,Population Estimate,,"Change, 2020 to 2022",
 709,"Fremont city, California","230,493","223,871","-6,622",-2.9
 710,"Plymouth city, Minnesota","81,017","78,683","-2,334",-2.9
 711,"Detroit city, Michigan","639,115","620,376","-18,739",-2.9
-712,"Cleveland city, Ohio","372,632","361,607","-11,025",-3.0
-713,"Chicago city, Illinois","2,746,352","2,665,039","-81,313",-3.0
-714,"Mount Vernon city, New York","73,905","71,714","-2,191",-3.0
-715,"Bayonne city, New Jersey","71,687","69,527","-2,160",-3.0
+712,"Cleveland city, Ohio","372,632","361,607","-11,025",-3
+713,"Chicago city, Illinois","2,746,352","2,665,039","-81,313",-3
+714,"Mount Vernon city, New York","73,905","71,714","-2,191",-3
+715,"Bayonne city, New Jersey","71,687","69,527","-2,160",-3
 716,"Tinley Park village, Illinois","56,001","54,287","-1,714",-3.1
 717,"Federal Way city, Washington","101,025","97,863","-3,162",-3.1
 718,"Alhambra city, California","82,868","80,259","-2,609",-3.1
@@ -769,12 +766,12 @@ Rank,Geographic Area,Population Estimate,,"Change, 2020 to 2022",
 765,"Paramount city, California","53,748","51,653","-2,095",-3.9
 766,"Hoboken city, New Jersey","60,057","57,703","-2,354",-3.9
 767,"Cicero town, Illinois","85,268","81,919","-3,349",-3.9
-768,"South San Francisco city, California","66,097","63,484","-2,613",-4.0
-769,"Shreveport city, Louisiana","187,587","180,153","-7,434",-4.0
-770,"Pleasanton city, California","79,856","76,689","-3,167",-4.0
-771,"Hawthorne city, California","88,077","84,563","-3,514",-4.0
-772,"Diamond Bar city, California","55,070","52,855","-2,215",-4.0
-773,"Torrance city, California","147,071","141,126","-5,945",-4.0
+768,"South San Francisco city, California","66,097","63,484","-2,613",-4
+769,"Shreveport city, Louisiana","187,587","180,153","-7,434",-4
+770,"Pleasanton city, California","79,856","76,689","-3,167",-4
+771,"Hawthorne city, California","88,077","84,563","-3,514",-4
+772,"Diamond Bar city, California","55,070","52,855","-2,215",-4
+773,"Torrance city, California","147,071","141,126","-5,945",-4
 774,"West Covina city, California","109,501","105,013","-4,488",-4.1
 775,"Huntington Park city, California","54,883","52,633","-2,250",-4.1
 776,"Norwalk city, California","102,762","98,537","-4,225",-4.1
@@ -792,16 +789,9 @@ Rank,Geographic Area,Population Estimate,,"Change, 2020 to 2022",
 788,"Lynwood city, California","67,256","64,086","-3,170",-4.7
 789,"Daly City city, California","104,973","100,007","-4,966",-4.7
 790,"Union City city, New Jersey","68,631","65,366","-3,265",-4.8
-791,"St. Louis city, Missouri","301,574","286,578","-14,996",-5.0
-792,"Jackson city, Mississippi","153,705","145,995","-7,710",-5.0
+791,"St. Louis city, Missouri","301,574","286,578","-14,996",-5
+792,"Jackson city, Mississippi","153,705","145,995","-7,710",-5
 793,"New York city, New York","8,804,194","8,335,897","-468,297",-5.3
 794,"Revere city, Massachusetts","62,204","58,528","-3,676",-5.9
 795,"Lake Charles city, Louisiana","84,936","79,113","-5,823",-6.9
 796,"San Francisco city, California","873,959","808,437","-65,522",-7.5
-Dash (-) represents zero or rounds to zero.,,,,,
-"Note: The estimates are based on the 2020 Census and reflect changes to the April 1, 2020 population due to the Count Question Resolution program, geographic program revisions, and the application of disclosure avoidance to protect confidentiality. For population estimates methodology statements, see https://www.census.gov/programs-surveys/popest/technical-documentation/methodology.html. All geographic boundaries for the 2022 population estimates series are as of January 1, 2022. For updates on Legal Boundary Change/Annexation Data, see https://www.census.gov/geographies/reference-files/time-series/geo/bas/annex.html. Additional information on these localities can be found in the Geographic Boundary Change Notes (see https://www.census.gov/programs-surveys/geography/technical-documentation/boundary-change-notes.html). ",,,,,
-Suggested Citation:,,,,,
-"Cumulative Estimates of Resident Population Change for Incorporated Places of 50,000 or More in 2020, Ranked by Percent Change:
-April 1, 2020 to July 1, 2022 (SUB-IP-EST2022-CUMCHG)",,,,,
-"Source: U.S. Census Bureau, Population Division",,,,,
-Release Date: May 2023,,,,,
