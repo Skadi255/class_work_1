@@ -20,6 +20,7 @@ Social Security Administration - www.socialsecurity.gov
 Then we analyzed our data sets and visualized the data.  Our followings are explored and visualized in the following jupyter notebooks:
 - UpdatedMainAc.ipynb
 - Preeti.ipynb
+- main.ipynb
 
 Here are the findings we found:
 
@@ -33,3 +34,13 @@ Here are the findings we found:
 
 ** How did interest rates change pre-covid and post-covid?
     We pulled the historical rates of interest rates in America in order to determine if this could have affected the housing market at that time.  Which the graph does show many changes, in particular a increase in interest rates from 2018-2019, followed by a decrease starting in late 2018 that continues till 2021, this change doesn't correlate to COVID-19 times.  From this graph, we can conclude that the interest rates were affected by factors other than the COVID-19 pandemic.  While interest rates would still affect housing choices, they themselves are not affected by the pandemic directly. 
+
+
+*In the main.ipynb, the way houses were being baught was explored. This is insite into weather there was a boom pre or post covid. 
+
+** The data set looks at the percentage of homes by state sold above the listing price. This is an indication of muliple buyer wanting the same
+   home and the highist bidder getting the purchase. 
+
+** A drastic change in houses selling above listing price indicates there arent enough homes for sale that meet the demand for the people who are ready to buy.	  
+
+** The data set also explores if this change is consistent with the given time frame of the covid out break. 
