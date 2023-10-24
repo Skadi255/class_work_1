@@ -17,7 +17,13 @@ Travis County Office - https://www.traviscountytx.gov/open-data-portal
 Bureau of Labor Statistics - https://www.bls.gov/data/ 
 Social Security Administration - www.socialsecurity.gov
 
-Then we analyzed our data sets and visualized the data.  Here are the findings we found:
+Then we analyzed our data sets and visualized the data.  Our followings are explored and visualized in the following jupyter notebooks:
+- UpdatedMainAc.ipynb
+- Preeti.ipynb
+
+Here are the findings we found:
+
+*The following questions are explored and visualized within the notebook "UpdatedMainAC.ipynb"
 
 ** How did job opportunities change pre and post Covid: Were more work from home oppotunities available?**
     The data we were able to find showed the percentage of people working from home each year.  We narrowed this down to 2 years pre-Covid and 2 years post-covid to really show the difference.  There is a incredibly steep increase in the percentage of people working from home that occurs during 2020.  In 2018, we had about 5% of people that reported working from home.  At the height of the graph, in 2020, we see around 60% of people working from home.  After that hike, numbers decrease sharply, but they stop decreasing when we hit around 30% in 2021.  
