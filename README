@@ -21,6 +21,7 @@ Then we analyzed our data sets and visualized the data.  Our followings are expl
 - UpdatedMainAc.ipynb
 - Preeti.ipynb
 - main.ipynb
+- p2.ipynb
 
 Here are the findings we found:
 
@@ -38,9 +39,17 @@ Here are the findings we found:
 
 *In the main.ipynb, the way houses were being baught was explored. This is insite into weather there was a boom pre or post covid. 
 
+Housing Cost section
 ** The data set looks at the percentage of homes by state sold above the listing price. This is an indication of muliple buyer wanting the same
    home and the highist bidder getting the purchase. 
 
 ** A drastic change in houses selling above listing price indicates there arent enough homes for sale that meet the demand for the people who are ready to buy.	  
 
-** The data set also explores if this change is consistent with the given time frame of the covid out break. 
+** The data set also explores if this change is consistent with the given time frame of the covid out break.
+
+Was the price of building a home affected by COVID?
+
+From the data I have gathered, the price of building materials saw a drastic increase while prices of homes also increased. 
+
+From the graph labeled “percentage change in materials and components”
+You can further see the breakdown of different building materials. The group with the highest percentage change was the plumbing and flooring. 
