@@ -11,6 +11,7 @@ To help us better explore this question, we broke this down into many, smaller q
     - Was housing price affected by supply materials and shipping? 
     
 We gathered data from the following sources:
+FHFA - https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx
 Zillow - http://www.zillow.com/research/data
 Yahoo Finance - https://finance.yahoo.com/quote/Z/history?p=Z
 Travis County Office - https://www.traviscountytx.gov/open-data-portal
@@ -18,6 +19,9 @@ Bureau of Labor Statistics - https://www.bls.gov/data/
 Social Security Administration - www.socialsecurity.gov
 
 Then we analyzed our data sets and visualized the data.  Here are the findings we found:
+
+** How was house proce affected by COVID?**
+    We looked the HPI data over the years and noticed a steep rise in the house prices during the COVID years. The average price increase for Pre Covid years was 16.82 and during/post Covid was 54.59. Clearly the house prices increased drmaticaly oevr these years compared to the previous years. Overall average change in price index was imapcted as well. 
 
 ** How did job opportunities change pre and post Covid: Were more work from home oppotunities available?**
     The data we were able to find showed the percentage of people working from home each year.  We narrowed this down to 2 years pre-Covid and 2 years post-covid to really show the difference.  There is a incredibly steep increase in the percentage of people working from home that occurs during 2020.  In 2018, we had about 5% of people that reported working from home.  At the height of the graph, in 2020, we see around 60% of people working from home.  After that hike, numbers decrease sharply, but they stop decreasing when we hit around 30% in 2021.  
